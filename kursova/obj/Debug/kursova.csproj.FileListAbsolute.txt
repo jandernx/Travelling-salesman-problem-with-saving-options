@@ -1,0 +1,18 @@
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\bin\Debug\kursova.exe.config
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\bin\Debug\kursova.exe
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\bin\Debug\kursova.pdb
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\obj\Debug\kursova.Form1.resources
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\obj\Debug\kursova.Properties.Resources.resources
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\obj\Debug\kursova.csproj.GenerateResource.Cache
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\obj\Debug\kursova.exe
+c:\users\jande\documents\visual studio 2017\Projects\kursova\kursova\obj\Debug\kursova.pdb
+C:\Users\admin\Desktop\temp\kursova\kursova\bin\Debug\kursova.exe.config
+C:\Users\admin\Desktop\temp\kursova\kursova\obj\Debug\kursova.exe
+C:\Users\admin\Desktop\temp\kursova\kursova\obj\Debug\kursova.pdb
+C:\Users\admin\Desktop\temp\kursova\kursova\obj\Debug\kursova.Form1.resources
+C:\Users\admin\Desktop\temp\kursova\kursova\obj\Debug\kursova.Properties.Resources.resources
+C:\Users\admin\Desktop\temp\kursova\kursova\obj\Debug\kursova.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\temp\kursova\kursova\bin\Debug\kursova.exe
+C:\Users\admin\Desktop\temp\kursova\kursova\bin\Debug\kursova.pdb
+C:\Users\admin\Desktop\temp\kursova\kursova\bin\Debug\Bunifu_UI_v1.5.3.dll
